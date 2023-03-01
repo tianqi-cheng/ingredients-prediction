@@ -1,1 +1,1 @@
-# ingredients-prediction
+# Developed Seq2Seq models (RNN and Transformer) to predict ingredients given just dish names. 
